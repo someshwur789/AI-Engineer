@@ -1,4 +1,4 @@
-**AIChatGuide**
+**#AIChatGuide**
 
 AIChatGuide is an AI-powered email and support analytics assistant built using Node.js, TypeScript, Express, and Supabase. It categorizes emails, performs sentiment and priority analysis, extracts information, and provides AI-generated responses.
 
