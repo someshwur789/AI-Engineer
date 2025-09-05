@@ -55,7 +55,7 @@ npm run dev
 The API will be served at: http://127.0.0.1:5000
 
 <h2 style="font-size:20px;">NOTE:</h2>
-  The project uses sample email data in **attached_assets/Sample_Support_Emails_Dataset.csv**. Make sure the file exists if you want to load sample emails.
+  The project uses sample email data in ****attached_assets/Sample_Support_Emails_Dataset.csv****. Make sure the file exists if you want to load sample emails.
   
 <h3 style="font-size:20px;">Here the Sample Results of the Project</h3>
 
